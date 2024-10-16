@@ -1,0 +1,11 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "Math",
+      "desc": "Math course!",
+      "price": "100",
+      "instructor": "Nada"
+    }
+  ]
+}
